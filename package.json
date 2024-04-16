@@ -1,0 +1,17 @@
+{
+  "name": "hls_downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pokemon": "^3.1.0",
+    "uuidv4": "^6.2.13"
+  }
+}
